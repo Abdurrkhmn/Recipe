@@ -1,9 +1,6 @@
 ноте:
-в этои проект мы создать:
-Javasсript (functional)
-talwindcss (framework)
-reactjs 
-API (open source)
+в эти проект мы создаем:
+наша команда работаем сначала в figma потом github (контроль версий), и мы уже совремнно что ползуется talwindcss & reactjs (помощи рамки), потом Javasсript (функциональность), API (чтобы сайт оставался живым)
 
 # Getting Started with Create React App
 
