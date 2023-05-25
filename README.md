@@ -1,7 +1,16 @@
 ноте:
 в эти проект мы создаем:
 наша команда работаем сначала в figma потом github (контроль версий), и мы уже совремнно что ползуется talwindcss & reactjs (помощи рамки), потом Javasсript (функциональность), API (чтобы сайт оставался живым)
-![Uploading one.png…]()
+
+Register  : регистрация — это место, куда пользователь при использовании нашего веб-сайта будет входить со своими данными.
+Home      : наша страница
+About     : о наша компания
+
+![one](https://github.com/Abdurrkhmn/Recipe/assets/106963007/ea29d557-8229-41d9-a2ab-b154c04054aa)
+
+![two](https://github.com/Abdurrkhmn/Recipe/assets/106963007/776c58f5-82fd-408f-95a5-63c9a0c92951)
+
+![tree](https://github.com/Abdurrkhmn/Recipe/assets/106963007/3429a6f8-4bc2-43e7-92e3-3a9ada44d701)
 
 
 # Getting Started with Create React App
